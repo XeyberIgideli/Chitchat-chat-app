@@ -1,3 +1,8 @@
+## About Project
+A simple social media project like Instagram. Built up to practice React. 
+Used React, Redux, React icons, Formik for client side, and Firebase for backend.
+
+I will add new features.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
